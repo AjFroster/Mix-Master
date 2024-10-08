@@ -1,3 +1,7 @@
+### Netlify
+https://ajf-drink-lookup.netlify.app/
+
+
 This React project is a cocktail discovery application that uses TheCocktailDB API to fetch and display information on various cocktails. Users can search for cocktails, view detailed information, and navigate between different pages such as the home, cocktail details, and newsletter sign-up.
 Key Libraries & APIs:
 
